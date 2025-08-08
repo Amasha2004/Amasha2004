@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Amasha
-- 👀 I’m interested in learn codeing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+💻 Computer Science Student | 🌐 Aspiring Web Developer | 🔐 Cybersecurity Enthusiast
+🎓 Graduating BSc in July 2027 | Future MSc student, possibly in China
+🌱 Currently learning HTML, CSS, JavaScript & building my personal website
+📚 Preparing for HSK 4 & HSKK Intermediate | Passionate about tech + languages
+🚀 Goal: Create impactful, secure, and user-friendly web experiences
+✨ Always curious. Always learning.
 
 <!---
 Amasha2004/Amasha2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
