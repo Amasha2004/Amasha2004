@@ -1,4 +1,5 @@
 Hi there, I'm Amasha Jayasinghe
+
 I’m a Computer Science undergrad passionate about full-stack development & clean code. I enjoy building practical web applications, experimenting with backend logic, and exploring modern programming frameworks in my free time.<br><br>🔭 Currently working on personal full-stack side projects<br>🌱 Learning advanced backend design patterns & cloud basics<br>💬 Ask me about JavaScript, Python, Vue, Java or beginner-friendly dev tips<br>⚡ Fun fact: I fix most bugs while sipping coffee late at night
 
 
